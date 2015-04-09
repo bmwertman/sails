@@ -1,7 +1,7 @@
 {
-  "name": "sails",
+  "name": "https://github.com/bmwertman/sails/tarball/master",
   "author": "Mike McNeil <@mikermcneil>",
-  "version": "https://github.com/bmwertman/sails/tarball/master",
+  "version": "0.11.0",
   "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
   "homepage": "http://sailsjs.org",
   "keywords": [
